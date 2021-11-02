@@ -24,3 +24,6 @@ hs_err_pid*
 
 # target folder contents
 /target
+
+# IntelliJ idea files
+/.idea
